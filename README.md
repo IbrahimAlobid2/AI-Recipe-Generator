@@ -70,7 +70,7 @@ streamlit run app.py
 4️⃣ **View or download the recipe as needed**.  
 
 ## 🖼️ Example Output
-Coming soon... 🚀
+![Screenshots](./data/ui.png)  
 
 ## 🛠️ Troubleshooting
 ### If `FAISS` or `LangChain` fails to install:

@@ -127,7 +127,6 @@ def main():
         st.image(
             upload_file,
             caption="The uploaded image",
-            use_container_width=True,
             width=250
         )
         ingredients = image_to_text(upload_file.name)
