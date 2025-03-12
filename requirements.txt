@@ -1,0 +1,29 @@
+# Core dependencies
+python>=3.9
+
+# Web framework
+streamlit==1.27.2
+
+# AI & LLM
+langchain==0.1.0
+langchain_groq==0.0.7
+langchain_core==0.1.5
+
+# Groq API for LLM & Image processing
+groq==0.5.0
+
+# FAISS for document retrieval
+faiss-cpu==1.7.4
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Image processing
+Pillow==10.2.0
+base64
+
+# API interaction
+requests==2.31.0
+
+# Regular Expressions
+regex==2023.12.25
